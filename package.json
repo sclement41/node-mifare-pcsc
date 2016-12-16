@@ -7,7 +7,7 @@
     "prepublish": "gulp prepublish"
   },
   "dependencies": {
-    "pcsclite": "0.4.8"
+    "pcsclite": "0.4.11"
   },
   "repository": {
     "type": "git",
